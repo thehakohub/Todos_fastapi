@@ -1,0 +1,10 @@
+# Ignore Python bytecode
+*.pyc
+# Ignore cache directories
+__pycache__/
+TodoApp/todos.db
+.vscode/settings.json
+TodoApp/open
+TodoApp/__pycache__/
+TodoApp/db_dependency/__pycache__/
+TodoApp/routers/__pycache__/
